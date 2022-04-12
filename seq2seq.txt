@@ -1,0 +1,142 @@
+input	output
+Abbotsford Regional Hospital and Cancer Centre Fraser Health Authority Suite 400 Central City Tower 13450 - 102 Avenue Surrey BC  V3T 0H1	Abbotsford Regional Hospital and Cancer Centre
+Cormorant Island Community Health Centre Vancouver Island Health Authority 1952 Bay Street Victoria, BC, V8R 1J8	Cormorant Island Community Health Centre
+Ashcroft and District General Hospital Interior Health Authority Community Health and Services Centre 5th Floor 505 Doyle Avenue Kelowna, BC, V1Y 6V8	Ashcroft and District General Hospital
+R.W. Large Memorial Hospital Vancouver Coastal Health Authority 11th Floor – 601 W. Broadway Vancouver BC  V6Z 1Y6	R.W. Large Memorial Hospital
+Bella Coola General Hospital Vancouver Coastal Health Authority 11th Floor – 601 W. Broadway Vancouver BC  V6Z 1Y6	Bella Coola General Hospital
+Burnaby Hospital Fraser Health Authority Suite 400 Central City Tower 13450 - 102 Avenue Surrey BC  V3T 0H1	Burnaby Hospital
+Lakes District Hospital and Health Centre Northern Health Authority Suite 600 - 299 Victoria St Prince George BC  V2L 5B8	Lakes District Hospital and Health Centre
+North Island Hospital, Campbell River & District Vancouver Island Health Authority 1952 Bay Street Victoria BC  V8R 1J8	North Island Hospital
+Castlegar and District Community Health Centre Interior Health Authority Community Health and Services Centre 5th Floor 505 Doyle Avenue Kelowna, BC, V1Y 6V8	Castlegar and District Community Health Centre
+Chemainus Health Care Centre Vancouver Island Health Authority 1952 Bay Street Victoria BC  V8R 1J8	Chemainus Health Care Centre
+Chetwynd General Hospital Northern Health Authority Suite 600 - 299 Victoria St Prince George BC  V2L 5B8	Chetwynd General Hospital
+Chilliwack General Hospital Fraser Health Authority Suite 400 Central City Tower 13450 - 102 Avenue Surrey BC  V3T 0H1	Chilliwack General Hospital
+Dr. Helmcken Memorial Hospital Interior Health Authority Community Health and Services Centre 5th Floor 505 Doyle Avenue Kelowna, BC, V1Y 6V8	Dr. Helmcken Memorial Hospital
+St. Joseph’s General Hospital Jane Murphy Chief Executive Officer	St. Joseph’s General Hospital
+North Island Hospital, Comox Valley Vancouver Island Health Authority, 1952 Bay Street Victoria BC  V8R 1J8	North Island Hospital
+East Kootenay Regional Hospital Interior Health Authority Community Health and Services Centre 5th Floor 505 Doyle Avenue Kelowna, BC, V1Y 6V8	East Kootenay Regional Hospital
+Creston Valley Hospital Interior Health Authority Community Health and Services Centre 5th Floor 505 Doyle Avenue Kelowna, BC, V1Y 6V8	Creston Valley Hospital
+Dawson Creek and District Hospital Northern Health Authority Suite 600 - 299 Victoria St Prince George BC  V2L 5B8	Dawson Creek and District Hospital
+Delta Hospital Fraser Health Authority Suite 400 Central City Tower 13450 - 102 Avenue Surrey BC  V3T 0H1	Delta Hospital
+Cowichan District Hospital Vancouver Island Health Authority 1952 Bay Street Victoria BC  V8R 1J8	Cowichan District Hospital
+Elk Valley Hospital Interior Health Authority Community Health and Services Centre 5th Floor 505 Doyle Avenue Kelowna, BC, V1Y 6V8	Elk Valley Hospital
+Fort Nelson General Hospital Northern Health Authority Suite 600 - 299 Victoria St Prince George BC  V2L 5B8	Fort Nelson General Hospital
+Stuart Lake Hospital Northern Health Authority Suite 600 - 299 Victoria St Prince George BC  V2L 5B8	Stuart Lake Hospital
+Fort St. John General Hospital Northern Health Authority Suite 600 - 299 Victoria St Prince George BC  V2L 5B8	Fort St. John General Hospital
+Golden and District General Hospital Interior Health Authority Community Health and Services Centre 5th Floor 505 Doyle Avenue Kelowna, BC, V1Y 6V8	Golden and District General Hospital
+Boundary Hospital Interior Health Authority Community Health and Services Centre 5th Floor 505 Doyle Avenue Kelowna, BC, V1Y 6V8	Boundary Hospital
+Wrinch Memorial Hospital Northern Health Authority Suite 600 - 299 Victoria St Prince George BC  V2L 5B8	Wrinch Memorial Hospital
+Fraser Canyon Hospital Fraser Health Authority Suite 400 Central City Tower 13450 - 102 Avenue Surrey BC  V3T 0H1	Fraser Canyon Hospital
+Invermere and District Hospital Interior Health Authority Community Health and Services Centre 5th Floor 505 Doyle Avenue Kelowna, BC, V1Y 6V8	Invermere and District Hospital
+Royal Inland Hospital Interior Health Authority Community Health and Services Centre 5th Floor 505 Doyle Avenue Kelowna, BC, V1Y 6V8	Royal Inland Hospital
+Victorian Community Health Centre of Kaslo Interior Health Authority Community Health and Services Centre 5th Floor 505 Doyle Avenue Kelowna, BC, V1Y 6V8	Victorian Community Health Centre of Kaslo
+Kelowna General Hospital Interior Health Authority Community Health and Services Centre 5th Floor 505 Doyle Avenue Kelowna, BC, V1Y 6V8	Kelowna General Hospital
+Kitimat General Hospital Northern Health Authority Suite 600 - 299 Victoria St Prince George BC  V2L 5B8	Kitimat General Hospital
+Ladysmith Community Health Centre Vancouver Island Health Authority 1952 Bay Street Victoria BC V8R 1J8	Ladysmith Community Health Centre
+Langley Memorial Hospital Fraser Health Authority Suite 400 Central City Tower 13450 - 102 Avenue Surrey BC  V3T 0H1	Langley Memorial Hospital
+Lillooet Hospital and Health Centre Interior Health Authority Community Health and Services Centre 5th Floor 505 Doyle Avenue Kelowna, BC, V1Y 6V8	Lillooet Hospital and Health Centre
+St. Bartholomew's Health Centre Interior Health Authority Community Health and Services Centre 5th Floor 505 Doyle Avenue Kelowna, BC, V1Y 6V8	St. Bartholomew's Health Centre
+Mackenzie and District Hospital Northern Health Authority Suite 600 - 299 Victoria St Prince George BC  V2L 5B8	Mackenzie and District Hospital
+Ridge Meadows Hospital & Health Care Centre Fraser Health Authority Suite 400 Central City Tower 13450 - 102 Avenue Surrey BC  V3T 0H1	Ridge Meadows Hospital & Health Care Centre
+Northern Haida Gwaii Hospital and Health Centre Northern Health Authority Suite 600 - 299 Victoria St Prince George BC  V2L 5B8	Northern Haida Gwaii Hospital and Health Centre
+McBride and District Hospital Northern Health Authority Suite 600 - 299 Victoria St Prince George BC  V2L 5B8	McBride and District Hospital
+Nicola Valley Hospital and Health Centre Interior Health Authority Community Health and Services Centre 5th Floor 505 Doyle Avenue Kelowna, BC, V1Y 6V8	Nicola Valley Hospital and Health Centre
+Mission Memorial Hospital Fraser Health Authority Suite 400 Central City Tower 13450 - 102 Avenue Surrey BC  V3T 0H1	Mission Memorial Hospital
+Arrow Lakes Hospital Interior Health Authority Community Health and Services Centre 5th Floor 505 Doyle Avenue Kelowna, BC, V1Y 6V8	Arrow Lakes Hospital
+Nanaimo Regional General Hospital Vancouver Island Health Authority 1952 Bay Street Victoria BC  V8R 1J8	Nanaimo Regional General Hospital
+Kootenay Lake Hospital Interior Health Authority Community Health and Services Centre 5th Floor 505 Doyle Avenue Kelowna, BC, V1Y 6V8	Kootenay Lake Hospital
+Slocan Community Health Centre Interior Health Authority Community Health and Services Centre 5th Floor 505 Doyle Avenue Kelowna, BC, V1Y 6V8	Slocan Community Health Centre
+Royal Columbian Hospital Fraser Health Authority Suite 400 Central City Tower 13450 - 102 Avenue Surrey BC  V3T 0H1	Royal Columbian Hospital
+Lions Gate Hospital Vancouver Coastal Health Authority 11th floor - 601 W Broadway Vancouver BC  V5Z 4C2	Lions Gate Hospital
+South Okanagan General Hospital Interior Health Authority Community Health and Services Centre 5th Floor 505 Doyle Avenue Kelowna, BC, V1Y 6V8	South Okanagan General Hospital
+100 Mile District General Hospital Interior Health Authority Community Health and Services Centre 5th Floor 505 Doyle Avenue Kelowna, BC, V1Y 6V8	100 Mile District General Hospital
+Penticton Regional Hospital Interior Health Authority Community Health and Services Centre 5th Floor 505 Doyle Avenue Kelowna, BC, V1Y 6V8	Penticton Regional Hospital
+West Coast General Hospital Vancouver Island Health Authority 1952 Bay Street Victoria BC  V8R 1J8	West Coast General Hospital
+Port Alice Hospital Vancouver Island Health Authority 1952 Bay Street Victoria BC  V8R 1J8	Port Alice Hospital
+Port Hardy Hospital Vancouver Island Health Authority 1952 Bay Street Victoria BC  V8R 1J8	Port Hardy Hospital
+Port McNeill and District Hospital Vancouver Island Health Authority 1952 Bay Street Victoria BC  V8R 1J8	Port McNeill and District Hospital
+Eagle Ridge Hospital & Health Care Centre Fraser Health Authority Suite 400 Central City Tower 13450 - 102 Avenue Surrey BC  V3T 0H1	Eagle Ridge Hospital & Health Care Centre
+Powell River General Hospital Vancouver Coastal Health Authority 11th floor - 601 W Broadway Vancouver BC  V5Z 4C2	Powell River General Hospital
+The University Hospital of Northern British Columbia Northern Health Authority Suite 600 - 299 Victoria St Prince George BC  V2L 5B8	The University Hospital of Northern British Columbia
+Prince Rupert Regional Hospital Northern Health Authority Suite 600 - 299 Victoria St Prince George BC  V2L 5B8	Prince Rupert Regional Hospital
+Princeton General Hospital Interior Health Authority Community Health and Services Centre 5th Floor 505 Doyle Avenue Kelowna, BC, V1Y 6V8	Princeton General Hospital
+Haida Gwaii Hospital and Health Centre-Xaayda Gwaay Ngaaysdll Naay Northern Health Authority Suite 600 - 299 Victoria St Prince George BC  V2L 5B8	Haida Gwaii Hospital and Health Centre-Xaayda Gwaay Ngaaysdll Naay
+G.R. Baker Memorial Hospital Northern Health Authority Suite 600 - 299 Victoria St Prince George BC  V2L 5B8	G.R. Baker Memorial Hospital
+Queen Victoria Hospital Interior Health Authority Community Health and Services Centre 5th Floor 505 Doyle Avenue Kelowna, BC, V1Y 6V8	Queen Victoria Hospital
+Richmond Hospital Vancouver Coastal Health Authority 11th floor - 601 W Broadway Vancouver BC  V5Z 4C2	Richmond Hospital
+Saanich Peninsula Hospital Vancouver Island Health Authority 1952 Bay Street Victoria BC  V8R 1J8	Saanich Peninsula Hospital
+Shuswap Lake General Hospital Interior Health Authority Community Health and Services Centre 5th Floor 505 Doyle Avenue Kelowna, BC, V1Y 6V8	Shuswap Lake General Hospital
+Lady Minto Gulf Islands Hospital Vancouver Island Health Authority 1952 Bay Street Victoria BC  V8R 1J8	Lady Minto Gulf Islands Hospital
+Sechelt Hospital/shíshálh Hospital Vancouver Coastal Health Authority 11th floor - 601 W Broadway Vancouver BC  V5Z 4C2	Sechelt Hospital/shíshálh Hospital
+Bulkley Valley District Hospital Northern Health Authority Suite 600 - 299 Victoria St Prince George BC  V2L 5B8	Bulkley Valley District Hospital
+Sparwood Health Centre Interior Health Authority Community Health and Services Centre 5th Floor 505 Doyle Avenue Kelowna, BC, V1Y 6V8	Sparwood Health Centre
+Squamish General Hospital Vancouver Coastal Health Authority 11th floor - 601 W Broadway Vancouver BC  V5Z 4C2	Squamish General Hospital
+Stewart General Hospital Northern Health Authority Suite 600 - 299 Victoria St Prince George BC  V2L 5B8	Stewart General Hospital
+Summerland Memorial Health Centre Interior Health Authority Community Health and Services Centre 5th Floor 505 Doyle Avenue Kelowna, BC, V1Y 6V8	Summerland Memorial Health Centre
+Surrey Memorial Hospital Fraser Health Authority Suite 400 Central City Tower 13450 - 102 Avenue Surrey BC  V3T 0H1	Surrey Memorial Hospital
+Jim Pattison Outpatient Care and Surgery Centre Fraser Health Authority Suite 400 Central City Tower 13450 – 102 Avenue Surrey BC  V3T 0H1	Jim Pattison Outpatient Care and Surgery Centre
+Mills Memorial Hospital Northern Health Authority Suite 600 - 299 Victoria St Prince George BC  V2L 5B8	Mills Memorial Hospital
+Tofino General Hospital Vancouver Island Health Authority 1952 Bay Street Victoria BC  V8R 1J8	Tofino General Hospital
+Kootenay Boundary Regional Hospital Interior Health Authority Community Health and Services Centre 5th Floor 505 Doyle Avenue Kelowna, BC, V1Y 6V8	Kootenay Boundary Regional Hospital
+British Columbia Cancer Agency Provincial Health Services Authority British Columbia Cancer Agency Branch 700 – 1380 Burrard St Vancouver, BC  V6Z 2H3	British Columbia Cancer Agency
+British Columbia's Children's Hospital Provincial Health Services Authority Children's & Women's Health Centre of British Columbia Branch 700 – 1380 Burrard St Vancouver, BC  V6Z 2H3	British Columbia's Children's Hospital
+G.F. Strong Centre Vancouver Coastal Health Authority 11th floor - 601 W Broadway Vancouver BC  V5Z 4C2	G.F. Strong Centre
+Holy Family Hospital Dianne Doyle President and Chief Executive Officer Providence Health Care Society c/o 1081 Burrard St Vancouver BC  V6Z 1Y6	Holy Family Hospital
+Mount Saint Joseph Hospital Dianne Doyle President and Chief Executive Officer Providence Health Care Society c/o 1081 Burrard St Vancouver BC  V6Z 1Y6	Mount Saint Joseph Hospital
+George Pearson Centre Vancouver Coastal Health Authority 11th floor - 601 W Broadway Vancouver BC  V5Z 4C2	George Pearson Centre
+St. Paul's Hospital Dianne Doyle President and Chief Executive Officer Providence Health Care Society c/o 1081 Burrard St Vancouver BC  V6Z 1Y6	St. Paul's Hospital
+Sunny Hill Health Centre for Children Provincial Health Services Authority Children's & Women's Health Centre of British Columbia Branch #700 – 1380 Burrard St Vancouver, BC  V6Z 2H3	Sunny Hill Health Centre for Children
+British Columbia's Women's Hospital and Health Care Centre Provincial Health Services Authority Children’s' & Women's Health Centre of British Columbia Branch #700 – 1380 Burrard St Vancouver, BC  V6Z 2H3	British Columbia's Women's Hospital and Health Care Centre
+U.B.C. Health Sciences Centre Hospital Vancouver Coastal Health Authority 11th floor - 601 W Broadway Vancouver BC  V5Z 4C2	U.B.C. Health Sciences Centre Hospital
+Vancouver General Hospital Vancouver Coastal Health Authority 11th floor - 601 W Broadway Vancouver BC  V5Z 4C2	Vancouver General Hospital
+St. John Hospital Northern Health Authority Suite 600 - 299 Victoria St Prince George BC  V2L 5B8	St. John Hospital
+Vernon Jubilee Hospital Interior Health Authority Community Health and Services Centre 5th Floor 505 Doyle Avenue Kelowna, BC, V1Y 6V8	Vernon Jubilee Hospital
+Queen Alexandra Centre for Children's Health Vancouver Island Health Authority 1952 Bay Street Victoria BC  V8R 1J8	Queen Alexandra Centre for Children's Health
+Royal Jubilee Hospital Vancouver Island Health Authority 1952 Bay Street Victoria BC  V8R 1J8	Royal Jubilee Hospital
+The Gorge Road Hospital Vancouver Island Health Authority 1952 Bay Street Victoria BC  V8R 1J8	The Gorge Road Hospital
+Victoria General Hospital Vancouver Island Health Authority 1952 Bay Street Victoria BC  V8R 1J8	Victoria General Hospital
+Peace Arch District Hospital Fraser Health Authority Suite 400 Central City Tower 13450 - 102 Avenue Surrey BC  V3T 0H1	Peace Arch District Hospital
+Cariboo Memorial Hospital Interior Health Authority Community Health and Services Centre 5th Floor 505 Doyle Avenue Kelowna, BC, V1Y 6V8	Cariboo Memorial Hospital
+Menno Hospital Arthur Enns Chief Executive Officer	Menno Hospital
+Matsqui-Sumas Abbotsford General Hospital, Extended Care Units only (Cottage Pavilion and Worthington Pavilion) Fraser Health Authority Suite 400 Central City Tower 13450 - 102 Avenue Surrey BC  V3T 0H1	Matsqui-Sumas Abbotsford General Hospital
+Fellburn Hospital Fraser Health Authority Suite 400 Central City Tower 13450 - 102 Avenue Surrey BC  V3T 0H1	Fellburn Hospital
+St. Michael’s Centre Extended Care Hospital Helene Elias Executive Director	St. Michael’s Centre
+Peace Lutheran Extended Care Centre Northern Health Authority Suite 600 - 299 Victoria St Prince George BC  V2L 5B8	Peace Lutheran Extended Care Centre
+Overlander Extended Care Hospital Interior Health Authority Community Health and Services Centre 5th Floor 505 Doyle Avenue Kelowna, BC, V1Y 6V8	Overlander Extended Care Hospital
+Queen's Park Hospital Fraser Health Authority Suite 400 Central City Tower 13450 - 102 Avenue Surrey BC  V3T 0H1	Queen's Park Hospital
+Trillium Lodge Vancouver Island Health Authority 1952 Bay Street Victoria BC  V8R 1J8	Trillium Lodge
+Pouce Coupe Care Home Northern Health Authority Suite 600 - 299 Victoria St Prince George BC  V2L 5B8	Pouce Coupe Care Home
+Eagle Park Health Care Facility Vancouver Island Health Authority 1952 Bay Street Victoria BC  V8R 1J8	Eagle Park Health Care Facility
+Brock Fahrni Pavilion Dianne Doyle President and Chief Executive Officer Providence Health Care Society c/o 1081 Burrard St Vancouver BC  V6Z 1Y6	Brock Fahrni Pavilion
+Louis Brier Hospital Peter Kafka Administrator	Louis Brier Hospital
+St. Vincent’s Hospital Langara Dianne Doyle President and Chief Executive Officer Providence Health Care Society c/o 1081 Burrard St Vancouver BC  V6Z 1Y6	St. Vincent’s Hospital Langara
+Juan de Fuca Hospitals (Aberdeen, Glengarry, Mt. Tolmie, Priory) Vancouver Island Health Authority 1952 Bay Street Victoria BC  V8R 1J8	Juan de Fuca Hospitals
+Mount St. Mary Hospital	Mount St. Mary Hospital
+Pleasant Valley Health Centre Interior Health Authority Community Health and Services Centre 5th Floor 505 Doyle Avenue Kelowna, BC, V1Y 6V8	Pleasant Valley Health Centre
+Barriere and District Health Centre Interior Health Authority Community Health and Services Centre 5th Floor 505 Doyle Avenue Kelowna, BC, V1Y 6V8	Barriere and District Health Centre
+Chase and District Health Centre Interior Health Authority Community Health and Services Centre 5th Floor 505 Doyle Avenue Kelowna, BC, V1Y 6V8	Chase and District Health Centre
+Stikine Regional Health Centre Northern Health Authority Suite 600 - 299 Victoria St Prince George BC  V2L 5B8	Stikine Regional Health Centre
+Elkford and District Diagnostic and Treatment Centre Interior Health Authority Community Health and Services Centre 5th Floor 505 Doyle Avenue Kelowna, BC, V1Y 6V8	Elkford and District Diagnostic and Treatment Centre
+Fraser Lake Diagnostic and Treatment Centre Northern Health Authority Suite 600 - 299 Victoria St Prince George BC  V2L 5B8	Fraser Lake Diagnostic and Treatment Centre
+Gold River Health Clinic Vancouver Island Health Authority 1952 Bay Street Victoria BC  V8R 1J8	Gold River Health Clinic
+Houston Health Centre Northern Health Authority Suite 600 - 299 Victoria St Prince George BC  V2L 5B8	Houston Health Centre
+Hudson’s Hope Gething Diagnostic and Treatment Centre Northern Health Authority Suite 600 - 299 Victoria St Prince George BC  V2L 5B8	Hudson’s Hope Gething Diagnostic and Treatment Centre
+South Similkameen Health Centre Interior Health Authority Community Health and Services Centre 5th Floor 505 Doyle Avenue Kelowna, BC, V1Y 6V8	South Similkameen Health Centre
+Logan Lake Health Centre Interior Health Authority Community Health and Services Centre 5th Floor 505 Doyle Avenue Kelowna, BC, V1Y 6V8	Logan Lake Health Centre
+James Samuel Gosnell Memorial Health Centre Nisga’a Valley Health Authority Julia Adams A/Administrator	James Samuel Gosnell Memorial Health Centre
+Pemberton and District Health Centre Vancouver Coastal Health Authority 11th floor - 601 W Broadway Vancouver BC  V5Z 4C2	Pemberton and District Health Centre
+Tahsis Health Centre Vancouver Island Health Authority 1952 Bay Street Victoria BC  V8R 1J8	Tahsis Health Centre
+Tumbler Ridge Health Care Centre Northern Health Authority Suite 600 - 299 Victoria St Prince George BC  V2L 5B8	Tumbler Ridge Health Care Centre
+Valemount Health Centre Northern Health Authority Suite 600 - 299 Victoria St Prince George BC  V2L 5B8	Valemount Health Centre
+Mary Pack Arthritis Centre Vancouver Coastal Health Authority 11th floor - 601 W Broadway Vancouver BC  V5Z 4C2	Mary Pack Arthritis Centre
+Whistler Diagnostic and Treatment Centre Vancouver Coastal Health Authority 11th floor - 601 W Broadway Vancouver BC  V5Z 4C2	Whistler Diagnostic and Treatment Centre
+Canadian Red Cross Society BC Mary Harder Director, Lower Mainland Region	Canadian Red Cross Society
+Alexis Creek Health Centre, Alexis Creek Interior Health Authority Community Health and Services Centre 5th Floor 505 Doyle Avenue Kelowna, BC, V1Y 6V8	Alexis Creek Health Centre
+Atlin Health Centre Northern Health Authority Suite 600 - 299 Victoria St. Prince George BC  V2L 5B8	Atlin Health Centre
+Bamfield Health Centre Vancouver Island Health Authority 1952 Bay Street Victoria BC  V8R 1J8	Bamfield Health Centre
+Blue River Health Centre, Blue River Interior Health Authority Community Health and Services Centre 5th Floor 505 Doyle Avenue Kelowna, BC, V1Y 6V8	Blue River Health Centre
+Edgewood Health Centre, Edgewood Interior Health Authority Community Health and Services Centre 5th Floor 505 Doyle Avenue Kelowna, BC, V1Y 6V8	Edgewood Health Centre
+Kyuquot Health Centre Vancouver Island Health Authority 1952 Bay Street Victoria BC  V8R 1J8	Kyuquot Health Centre
+Riverview Hospital Provincial Health Services Authority British Columbia Mental Health Society Branch 700 – 1380 Burrard St Vancouver BC  V6Z 2H3	Riverview Hospital
+BC Drug & Poison Information Centre c/o BC Centre for Disease Control	BC Drug & Poison Information Centre
+Victoria Hospice Society	Victoria Hospice Society
